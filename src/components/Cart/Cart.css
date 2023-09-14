@@ -2,3 +2,16 @@
   width: 100px;
   margin-right: 10px;
 }
+
+.card {
+  margin-bottom: 5px;
+  margin-right: 10px;
+  width: 100px;
+  display: flex;
+  justify-items: center;
+  flex-direction: column;
+}
+.cart-container {
+  display: flex;
+  flex-direction: row;
+}
