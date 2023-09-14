@@ -1,8 +1,17 @@
-# React + Vite
+<h2>This is a sample youtube style landing page</h2>
+<h3>This page is designed by</h3>
+<ul>
+<li>HTML,</li>
+<li> CSS,</li>
+<li>JavaScript</li>
+<li>React</li>
+</ul>
+<h3>Features:</h3>
+<ul>
+<li>All Cards are dynamic which are generated from API</li>
+<li>Product can be added in cart</li>
+<li>Cart Data saved in local Storage</li>
+</ul>
+<h2>Landing page view</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Image](./src/assets/images/landingPageView.png)
