@@ -3,7 +3,7 @@ import "./Cart.css";
 
 const Cart = ({ cart, handleRemoveFromCart }) => {
   return (
-    <div>
+    <div className="cart">
       <h4>Cart: {cart.length}</h4>
       <div className="cart-container">
         {cart.map((bottle) => (

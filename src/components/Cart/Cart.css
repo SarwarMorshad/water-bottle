@@ -4,7 +4,7 @@
 }
 
 .card {
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   margin-right: 10px;
   width: 100px;
   display: flex;
@@ -12,6 +12,7 @@
   flex-direction: column;
 }
 .cart-container {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  margin-bottom: 10px;
 }
