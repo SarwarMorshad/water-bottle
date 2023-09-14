@@ -1,4 +1,4 @@
-<h2>This is a sample youtube style landing page</h2>
+<h2>This is a sample product page with adding cart feature</h2>
 <h3>This page is designed by</h3>
 <ul>
 <li>HTML,</li>
